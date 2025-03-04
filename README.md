@@ -1,4 +1,4 @@
-#Instructions#
+#Instructions
 
 1. Clone the repo.
 2. Open the SOLIDPrinciplesDemo Project.
