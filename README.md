@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 1. Clone the repo.
 2. Open the SOLIDPrinciplesDemo Project.
@@ -11,3 +11,4 @@
 9. Verify the naswer is the same whether you call the interface method or the concrete class method.
 10. Break something in the concrete class method.
 11. ~Notice code in Folder 3 is broken while code in Folder 4 is not.~
+12. ~Make a change in Sine:Measure.vi and save. Notice code in Folder 3 gets recompiled, but code in Folder 4 doesn't. (doesn't work even if Separate Comiled Code is set to False). The only staged file is Sine:Measure.vi~
